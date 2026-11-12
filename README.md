@@ -1,4 +1,4 @@
-# [Nome da Equipe]
+# [Equipe 04]
 
 **Repositório:** https://github.com/Dayenegomes/Eng.Sw
 
@@ -13,6 +13,7 @@
 | Débora | — |
 | Danton | — |
 | Dayene | — |
+| George | — |
 | Getúlio | — |
 
 **Canal de comunicação:** Grupo de WhatsApp
